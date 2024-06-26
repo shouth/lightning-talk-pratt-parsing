@@ -1,5 +1,3 @@
-# manim-project
+# lightning-talk-pratt-parsing
 
-Describe your project here.
-# lightning-talk-pratt-parsing
-# lightning-talk-pratt-parsing
+pratt parsing について LT で発表するために manim で作っているスライドのリポジトリです
